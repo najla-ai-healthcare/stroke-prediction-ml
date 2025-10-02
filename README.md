@@ -29,5 +29,5 @@ This project builds a Machine Learning model to predict stroke risk using an imb
    git clone https://github.com/najla-ai-healthcare/stroke-prediction-ml.git
 
 2.Open predict-stroke in Jupyter or Google Colab
-3. Run all the cells
+3.Run all the cells
 
